@@ -1,1 +1,2 @@
 # Neetcode-150
+This will be the repository I will use to track my progress over the next 3 months. I aim to do atleast 2 neetcode problems everyday and finish the 150 problems before my internship ends.
